@@ -6,12 +6,12 @@ int main()
     int m = 20;
     for (int i = 0; i < m; i++)
     {
-        cout << i * 2 << endl;
+        cout << i * 8 << endl;
     }
 
     for (int i = 1; i < m; i++)
     {
-        cout << i * 4 << endl;
+        cout << i * 9 << endl;
     }
 
     return 0;
