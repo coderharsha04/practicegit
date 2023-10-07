@@ -9,7 +9,7 @@ int main()
         cout << i * 8 << endl;
     }
 
-    for (int i = 0; i < m; i++)
+    for (int i = 1; i < m; i++)
     {
         cout << i * 9 << endl;
     }
